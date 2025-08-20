@@ -1,0 +1,5 @@
+tenant_id      = "bc2e6364-d970-4392-87a4-2bfe5ec07c6f"
+app_name       = "My-App"
+user_name      = "user1@sathyayadav717gmail.onmicrosoft.com"
+user_password  = "Password@123"
+group_name     = "My-App-Group"
